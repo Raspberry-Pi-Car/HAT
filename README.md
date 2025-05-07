@@ -15,6 +15,16 @@ A custom PCB for adding sensors and hardware interfacing
 | MCP-3008  | Analog to digital converter | [MCP 3008 Datasheet](https://cdn-shop.adafruit.com/datasheets/MCP3008.pdf) |
 
 
+## Connected GPIO pins
+
+| Device | GPIO / Pin |
+| -------- | -------- |
+| Ultrasonic Trigger | GPIO21 / Pin 40 |
+| Ultrasonic Echo | GPIO20 / Pin 38 |
+| H-Drive nFault | GPIO26 / Pin 37 |
+| Switch | GPIO19 / Pin 35 |
+
+
 
 
 ## 2x20 Pin Header (GPIO)
